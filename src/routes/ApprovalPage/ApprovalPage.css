@@ -1,0 +1,23 @@
+.icon_detail {
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+  border: 0.1px #fff;
+  position:relative;
+  left: 36%;
+}
+.container {
+  padding-top: 20px;
+}
+
+.table_title {
+  font-size: 1rem;
+  color: #d73435;
+  text-align: center;
+}
+.table_columns {
+  font-size: 0.7rem;
+  text-align: center;
+}
+.table {
+  background: #fff;
+}

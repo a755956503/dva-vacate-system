@@ -1,0 +1,53 @@
+.columns {
+  position: relative;
+  margin: 20px 0 auto;
+}
+
+.item {
+  font-size: 20px;
+  margin: 20px;
+  display: table-cell;
+}
+.item:hover {
+  color: rgb(52, 154, 131);;
+  cursor: pointer;
+}
+.tabs {
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.title {
+  font-size: large;
+}
+ .section {
+   padding: 20px;
+   background: #fff;
+   margin-bottom: 30px;
+ }
+
+ .section_title {
+   color: rgb(52, 154, 131);
+   font-family: "Helvetica","serif";
+ }
+
+ .section_main {
+   font-size: 16px;
+   padding-left: 5px;
+   padding-top: 10px;
+ }
+
+ .section_table {
+   font-size: 16px;
+   border: 0;
+ }
+.section_table tr:nth-child(even) {
+  background: rgb(245, 245, 245);
+}
+
+.section_table td {
+  padding: 5px;
+
+}
+
